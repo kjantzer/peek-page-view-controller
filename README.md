@@ -1,6 +1,6 @@
 # Peek Page View Controller
 
-> Create a paged vertical scroll view with a peek into the next (and previous) views
+> Create a paged horizontal scroll view with a peek into the next (and previous) views
 
 ![Preview](http://i.imgur.com/6I1CvHE.gif)
 
